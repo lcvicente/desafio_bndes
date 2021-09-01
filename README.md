@@ -7,7 +7,7 @@ Nossa proposta para este desafio foi criar uma solução que aumente a atrativid
 ### Codificação realizada na linguagem Python com uso da ferramenta Google Colab para aumentar a produtividade e aprimorar o trabalho em equipe.
 Para a solução rodar corretamente os seguintes pacotes devem ser instalados:
 
---> pyLDAvis
+--> pyLDAvis <br>
 --> pdf2image <br>
 --> pillow <br>
 --> pytesseract
