@@ -8,8 +8,8 @@ Nossa proposta para este desafio foi criar uma solução que aumente a atrativid
 Para a solução rodar corretamente os seguintes pacotes devem ser instalados:
 
 --> pyLDAvis
---> pdf2image \n
---> pillow \n
+--> pdf2image <br>
+--> pillow <br>
 --> pytesseract
 
 # World Cloud
